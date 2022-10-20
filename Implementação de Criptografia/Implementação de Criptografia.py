@@ -1,4 +1,7 @@
 ''' 
+
+Aluno: João Clayton dos Santos Junior
+
 Como o algoritmo de criptografia escolhido funciona?
 
 R: O algoritmo abaixo utiliza a função str_xor para realizar uma criptografia simétrica.
